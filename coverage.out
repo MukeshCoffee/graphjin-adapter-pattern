@@ -1,0 +1,17 @@
+mode: set
+graphjin-adapter-pattern/cmd/main/main.go:10.13,40.37 12 0
+graphjin-adapter-pattern/cmd/main/main.go:40.37,43.3 2 0
+graphjin-adapter-pattern/internal/adaptee/create_user_query.go:12.52,14.2 1 0
+graphjin-adapter-pattern/internal/adaptee/create_user_query.go:17.48,19.2 1 0
+graphjin-adapter-pattern/internal/adaptee/get_user_query.go:11.49,13.2 1 0
+graphjin-adapter-pattern/internal/adaptee/get_user_query.go:16.45,18.2 1 0
+graphjin-adapter-pattern/internal/adaptee/create_user_query.go:12.52,14.2 1 1
+graphjin-adapter-pattern/internal/adaptee/create_user_query.go:17.48,19.2 1 1
+graphjin-adapter-pattern/internal/adaptee/get_user_query.go:11.49,13.2 1 1
+graphjin-adapter-pattern/internal/adaptee/get_user_query.go:16.45,18.2 1 1
+graphjin-adapter-pattern/internal/adapter/adaptee.go:7.44,9.2 1 1
+graphjin-adapter-pattern/internal/adapter/adapter.go:9.36,12.2 1 1
+graphjin-adapter-pattern/internal/adapter/create_user_adapter.go:13.78,15.2 1 1
+graphjin-adapter-pattern/internal/adapter/create_user_adapter.go:18.49,22.2 3 1
+graphjin-adapter-pattern/internal/adapter/get_user_adapter.go:13.69,15.2 1 1
+graphjin-adapter-pattern/internal/adapter/get_user_adapter.go:18.46,22.2 3 1

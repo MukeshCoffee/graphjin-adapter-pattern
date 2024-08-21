@@ -1,0 +1,22 @@
+# EditorConfig is supported by many text editors and IDEs.
+# Make sure the EditorConfig plugin is installed in the team's IDEs (in your respective IDEs.).
+
+root = true
+
+# Global settings
+[*]
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Go-specific settings
+[*.go]
+indent_style = tab      # Go uses tabs for indentation
+tab_width = 4           # Standard tab width for Go
+max_line_length = 100   # Recommended line length
+
+# Markdown files settings
+[*.md]
+trim_trailing_whitespace = false
+indent_style = space
